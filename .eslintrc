@@ -108,7 +108,7 @@
         "wrap-iife": [2, "any"],
         "yoda": 2,
 
-        "indent": [2, 4],
+        "indent": [2, 4,  {"SwitchCase": 1}],
         "brace-style": [2,
             "1tbs", {
                 "allowSingleLine": true
